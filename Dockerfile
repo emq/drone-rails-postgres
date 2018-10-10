@@ -1,4 +1,4 @@
-FROM ruby:2.2.10-jessie
+FROM ruby:2.3.7-jessie
 
 ENV DOCKERIZE_VERSION 0.6.1
 
